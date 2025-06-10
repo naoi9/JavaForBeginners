@@ -17,8 +17,9 @@ public class Start {
 //		MyFrame f=new DisplayFaceObject();
 //		MyFrame f=new DisplayFaceAndTree();
 //		MyFrame f=new DisplayFaceVector();
-//		MyFrame f=new DisplayCarTrain();
-		MyFrame f=new DisplayVehicleVector();
+////		MyFrame f=new DisplayCarTrain();
+//		MyFrame f=new DisplayVehicleVector();
+		MyFrame f=new PlayerAnimation();
 
 	}
 }
