@@ -12,6 +12,13 @@ public class Start {
 //		MyFrame frame1=new RectIf();
 //		MyFrame frame1=new 練習問題4();
 //		MyFrame frame1=new DisplayRectsSlow();
-		MyFrame frame1=new Animation();
+//		MyFrame frame1=new Animation();
+//		MyFrame frame1=new DisplayFace();
+//		MyFrame f=new DisplayFaceObject();
+//		MyFrame f=new DisplayFaceAndTree();
+//		MyFrame f=new DisplayFaceVector();
+//		MyFrame f=new DisplayCarTrain();
+		MyFrame f=new DisplayVehicleVector();
+
 	}
 }
